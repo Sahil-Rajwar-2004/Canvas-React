@@ -2,8 +2,8 @@
 
 ## ***Draw anything you want with Canva***
 
-<!-- ### ***`Supported OS`***  
+### ***`Supported OS`***  
 
 - ***`Window`***  
 - ***`Linux`***
-- ***`Mac OS`*** -->
+- ***`Mac OS`***

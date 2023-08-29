@@ -7,3 +7,5 @@
 - ***`Window`***  
 - ***`Linux`***
 - ***`Mac OS`***
+
+## ***`NOT` Compatible for mobile***

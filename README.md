@@ -1,4 +1,4 @@
-# ***React + Vite***
+# ***Canvas-PC***
 
 ## ***Draw anything you want with Canva***
 
